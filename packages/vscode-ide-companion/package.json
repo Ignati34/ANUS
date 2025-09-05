@@ -2,7 +2,7 @@
   "name": "anus-vscode-ide-companion",
   "displayName": "ANUS Companion",
   "description": "Enable ANUS with direct access to your IDE workspace.",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "publisher": "anus-dev",
   "icon": "assets/icon.png",
   "repository": {
